@@ -24,7 +24,7 @@
 Currently studying at **UFRJ** and deepening my knowledge in **Python**, **C++**, and **OpenFOAM** applied to solving complex flow problems.
 
 <p align="center">
-  <img src="ufrj.gif" width="100" alt="UFRJ">
+  <img src="ufrj.gif" width="180" alt="UFRJ">
 </p>
 
 ---
