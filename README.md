@@ -29,7 +29,7 @@ Currently studying at **UFRJ** and deepening my knowledge in **Python**, **C++**
 
 ---
 
-###  ［ ＳＹＳＴＥＭ＿ＯＶＥＲＶＩＥＷ ］ //
+###  ［ ＳＹＳＴＥＭ＿ＯＶＥＲＶＩＥＷ ］
 
 * **Core Focus** → Computational Fluid Dynamics (CFD) & Software Development
 * **Institution** → Universidade Federal do Rio de Janeiro (UFRJ)
@@ -38,7 +38,7 @@ Currently studying at **UFRJ** and deepening my knowledge in **Python**, **C++**
 
 ---
 
-## CYBERNETICS // TECH STACK
+## TECH STACK
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Currently studying at **UFRJ** and deepening my knowledge in **Python**, **C++**
 </div>
 ---
 
-## NEURAL NETWORK STATS //
+## NEURAL NETWORK STATS 
 
 <div align="center">
 
@@ -75,7 +75,7 @@ Currently studying at **UFRJ** and deepening my knowledge in **Python**, **C++**
 
 </div>
 ---
-##  MEMORY SECTORS // KNOWLEDGE BASE
+## KNOWLEDGE BASE
 
 |  | Course | Status |
 | :--- | :--- | :--- |
