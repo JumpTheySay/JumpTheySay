@@ -10,7 +10,7 @@
 
 <div align="center">
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-  ![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=ff007f&label=SIMULATION+RUNS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=JumpTheySay&style=flat-square&color=ff007f&label=SIMULATION+RUNS)
 </div>
 
 ---
