@@ -60,9 +60,9 @@ Currently studying at **UFRJ** and deepening my knowledge in **Python**, **C++**
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JumpTheySay&theme=dark&title_color=ff007f&icon_color=ff007f&text_color=00f0ff&bg_color=0d0d0d&border_color=00f0ff&count_private=true"/>
+![Stats Gerais](https://github-readme-stats.vercel.app/api?username=JumpTheySay&theme=dark&title_color=ff007f&icon_color=ff007f&text_color=00f0ff&bg_color=0d0d0d&border_color=00f0ff&count_private=true)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=JumpTheySay&layout=compact&theme=dark&title_color=ff007f&icon_color=00f0ff&text_color=cccccc&bg_color=0d0d0d&border_color=00f0ff"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=JumpTheySay&layout=compact&theme=dark&title_color=ff007f&icon_color=00f0ff&text_color=cccccc&bg_color=0d0d0d&border_color=00f0ff)
 
 </div>
 ---
