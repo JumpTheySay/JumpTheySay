@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="seu-banner-animado.gif" width="100%" alt="Capa Vaporwave"/>
+  <img src="banner.gif" width="100%" alt="Capa Vaporwave"/>
 </div>
 
 <div align="center">
@@ -9,37 +9,36 @@
 <br/>
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+  
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/mariana-assunção-77127028b/)
   ![Profile Views](https://komarev.com/ghpvc/?username=JumpTheySay&style=flat-square&color=ff007f&label=SIMULATION+RUNS)
+  
 </div>
 
 ---
 
 **CFD Engineer / Developer**
 
-> *"In fluid dynamics, convergence is the only truth."*
+> *"Boundary Conditions... Mesh Generation..."*
 
-Atualmente estudando na **UFRJ** 🏫 e aprofundando conhecimentos em **Python**, **C++** e **OpenFOAM** aplicados à resolução de problemas complexos de escoamento.
+Currently studying at **UFRJ** and deepening my knowledge in **Python**, **C++**, and **OpenFOAM** applied to solving complex flow problems.
 
 <p align="center">
-  <img src="brasao.gif" width="100" alt="UFRJ">
+  <img src="ufrj.gif" width="100" alt="UFRJ">
 </p>
 
 ---
 
-###  System Overview
+###  ［ ＳＹＳＴＥＭ＿ＯＶＥＲＶＩＥＷ ］ //
 
 * **Core Focus** → Computational Fluid Dynamics (CFD) & Software Development
 * **Institution** → Universidade Federal do Rio de Janeiro (UFRJ)
 * **Main Toolsets** → OpenFOAM, Python, C++
-* ⏳ **Current Status** → Running high-fidelity simulations. Refusing to diverge.
+* **Current Status** → Running high-fidelity simulations. Refusing to diverge.
 
 ---
 
-
-
-
-## Cybernetics & Tech Stack
+## CYBERNETICS // TECH STACK
 
 <div align="center">
 
@@ -53,22 +52,22 @@ Atualmente estudando na **UFRJ** 🏫 e aprofundando conhecimentos em **Python**
 </div>
 ---
 
-## Neural Network Statistics
+## NEURAL NETWORK STATS //
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ladymnria&theme=dark&ring=ff007f&fire=ff007f&currStreakLabel=ff007f&background=0d0d0d&border=00f0ff&stroke=00f0ff&dates=cccccc&sideLabels=00f0ff" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=jumptheysay&theme=dark&ring=ff007f&fire=ff007f&currStreakLabel=ff007f&background=0d0d0d&border=00f0ff&stroke=00f0ff&dates=cccccc&sideLabels=00f0ff" alt="streak"/>
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ladymnria&show_icons=true&theme=dark&title_color=ff007f&icon_color=ff007f&text_color=00f0ff&bg_color=0d0d0d&border_color=00f0ff&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JumpTheySay&theme=dark&title_color=ff007f&icon_color=ff007f&text_color=00f0ff&bg_color=0d0d0d&border_color=00f0ff&count_private=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladymnria&layout=compact&theme=dark&title_color=ff007f&icon_color=00f0ff&text_color=cccccc&bg_color=0d0d0d&border_color=00f0ff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=JumpTheySay&layout=compact&theme=dark&title_color=ff007f&icon_color=00f0ff&text_color=cccccc&bg_color=0d0d0d&border_color=00f0ff"/>
 
 </div>
 ---
 
-## Simulation Activity Graph
+## SIMULATION ACTIVITY // 蒸気波
 
 <div align="center">
 
@@ -76,7 +75,7 @@ Atualmente estudando na **UFRJ** 🏫 e aprofundando conhecimentos em **Python**
 
 </div>
 ---
-##  Memory Sectors — Knowledge Base
+##  MEMORY SECTORS // KNOWLEDGE BASE
 
 |  | Course | Status |
 | :--- | :--- | :--- |
