@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.gif" width="100%" alt="Capa Vaporwave"/>
+  <img src="banner.gif" width="80%" alt="Capa Vaporwave"/>
 </div>
 
 <div align="center">
