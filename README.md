@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=26&pause=2000&color=00f0ff&center=true&vCenter=true&width=600&lines=CFD+Engineer;Fluid+Dynamics;Navier-Stokes+Hunter." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=26&pause=2000&color=00f0ff&center=true&vCenter=true&width=600&lines=CFD;Engineer;Fluid+Dynamics;Navier-Stokes+Hunter." alt="Typing SVG"/>
 </div>
 
 <br/>
