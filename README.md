@@ -17,7 +17,7 @@
 
 ---
 
-**CFD Engineer / Developer**
+**Engineer / Developer**
 
 > *"Boundary Conditions... Mesh Generation..."*
 
